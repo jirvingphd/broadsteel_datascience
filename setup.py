@@ -11,14 +11,14 @@ with open('README.rst') as readme_file:
 with open('HISTORY.rst') as history_file:
     history = history_file.read()
 
-requirements = ['Click>=6.0', ]
+requirements = ['Click>=6.0','numpy','pandas','seaborn','matplotlib','sklearn','pydotplus','scipy','xgboost']
 
 setup_requirements = [ ]
 
 test_requirements = [ ]
 
 setup(
-    author="James Irving",
+    author="James M. Irving, Michael V. Moravetz",
     author_email='james.irving.phd@outlook.com',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
