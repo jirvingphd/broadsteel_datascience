@@ -1,4 +1,4 @@
-Welcome to Python Boilerplate's documentation!
+Welcome to Python BroadSteel_DataScience's documentation!
 ======================================
 
 .. toctree::

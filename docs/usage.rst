@@ -2,6 +2,6 @@
 Usage
 =====
 
-To use Python Boilerplate in a project::
+To use BroadSteel_DataScience in a project::
 
     import broadsteel_datascience

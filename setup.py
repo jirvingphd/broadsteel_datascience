@@ -33,7 +33,7 @@ setup(
         'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
     ],
-    description="Python Boilerplate",
+    description="BroadSteel_DataScience",
     entry_points={
         'console_scripts': [
             'broadsteel_datascience=broadsteel_datascience.cli:main',
