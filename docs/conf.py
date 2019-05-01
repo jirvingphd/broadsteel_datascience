@@ -47,7 +47,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Python Boilerplate'
+project = u'broadsteel_datascience'
 copyright = u"2019, James Irving"
 author = u"James Irving"
 
@@ -129,7 +129,7 @@ latex_elements = {
 # [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'broadsteel_datascience.tex',
-     u'Python Boilerplate Documentation',
+     u'BroadSteel_DataScience Documentation',
      u'James Irving', 'manual'),
 ]
 
@@ -140,7 +140,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     (master_doc, 'broadsteel_datascience',
-     u'Python Boilerplate Documentation',
+     u'BroadSteel_DataScience Documentation',
      [author], 1)
 ]
 
@@ -152,7 +152,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
     (master_doc, 'broadsteel_datascience',
-     u'Python Boilerplate Documentation',
+     u'BroadSteel_DataScience Documentation',
      author,
      'broadsteel_datascience',
      'One line description of project.',
